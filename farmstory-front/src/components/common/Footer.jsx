@@ -15,10 +15,10 @@ export const Footer = () => {
           대표 : 김철학 / 이메일 : chhak0503@gmail.com / 전화 : 01) 234-5678 /
           부산광역시 부산진구 부전동 123
           <br />
-          <span class="copyright">
+          <span className="copyright">
             copyrightⓒ 김철학(개발에반하다) All rights reserved.
           </span>
-          <span class="version">farmstory ver1.0.1</span>
+          <span className="version">farmstory ver1.0.1</span>
         </p>
       </footer>
     </>
