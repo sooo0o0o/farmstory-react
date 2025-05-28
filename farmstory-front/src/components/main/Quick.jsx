@@ -3,7 +3,7 @@ import React from "react";
 export const Quick = () => {
   return (
     <>
-      <div class="quick">
+      <div className="quick">
         <a href="#">
           <img src="./images/main_banner_sub1_tit.png" alt="오늘의 식단" />
         </a>

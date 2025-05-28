@@ -3,7 +3,7 @@ import React from "react";
 export const Slider = () => {
   return (
     <>
-      <div class="slider">
+      <div className="slider">
         <ul>
           <li>
             <img src="./images/main_slide_img1.jpg" alt="슬라이더1" />
@@ -21,7 +21,7 @@ export const Slider = () => {
           alt="사람과 자연을 사랑하는 팜스토리"
         />
 
-        <div class="banner">
+        <div className="banner">
           <img src="./images/main_banner_txt.png" alt="GRAND OPEN" />
           <img
             src="./images/main_banner_tit.png"

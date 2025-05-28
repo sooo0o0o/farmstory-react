@@ -3,17 +3,17 @@ import React from "react";
 export const Info = () => {
   return (
     <>
-      <div class="info">
+      <div className="info">
         <div>
           <img
             src="./images/main_sub2_cs_tit.png"
-            class="tit"
+            className="tit"
             alt="고객센터 안내"
           />
-          <div class="tel">
+          <div className="tel">
             <img src="./images/main_sub2_cs_img.png" alt="" />
             <img src="./images/main_sub2_cs_txt.png" alt="1666-777" />
-            <p class="time">
+            <p className="time">
               평일: AM 09:00 ~ PM 06:00
               <br />
               점심: PM 12:00 ~ PM 01:00
@@ -21,7 +21,7 @@ export const Info = () => {
               토, 일요일, 공휴일 휴무
             </p>
           </div>
-          <div class="btns">
+          <div className="btns">
             <a href="#">
               <img src="./images/main_sub2_cs_bt1.png" alt="1:1 고객문의" />
             </a>
@@ -36,10 +36,10 @@ export const Info = () => {
         <div>
           <img
             src="./images/main_sub2_account_tit.png"
-            class="tit"
+            className="tit"
             alt="계좌안내"
           />
-          <p class="account">
+          <p className="account">
             기업은행 123-456789-01-01-012
             <br />
             국민은행 01-1234-56789
@@ -53,10 +53,10 @@ export const Info = () => {
         <div>
           <img
             src="./images/main_sub2_notice_tit.png"
-            class="tit"
+            className="tit"
             alt="공지사항"
           />
-          <table class="notice" border="0">
+          <table className="notice" border="0">
             <tr>
               <td>·</td>
               <td>

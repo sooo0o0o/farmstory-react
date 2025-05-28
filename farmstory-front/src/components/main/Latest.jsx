@@ -3,7 +3,7 @@ import React from "react";
 export const Latest = () => {
   return (
     <>
-      <div class="latest">
+      <div className="latest">
         <div>
           <a href="#">
             <img src="./images/main_latest1_tit.png" alt="텃밭 가꾸기" />
